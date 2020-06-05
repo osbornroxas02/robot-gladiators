@@ -227,4 +227,3 @@ var randomNumber = function(min, max) {
 startGame();
 
 
-
